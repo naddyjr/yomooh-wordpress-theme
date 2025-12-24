@@ -1,0 +1,1328 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Yomooh\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-23 11:19+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Somnest <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.0; wp-6.8.2; php-8.1.33\n"
+"X-Domain: yomooh"
+
+#: template-parts/contents/content-standard.php:35
+#: template-parts/contents/content-list.php:40
+#: template-parts/contents/content-grid.php:47
+msgid "% comments"
+msgstr ""
+
+#: import/classes/importer-v2/WXRImporter.php:621
+#, php-format
+msgid "%1$s \"%2$s\" already exists."
+msgstr ""
+
+#: comments.php:125
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: template-parts/contents/content-single.php:98
+msgid "%d min read"
+msgid_plural "%d min read"
+msgstr[0] ""
+msgstr[1] ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:111 template-parts/contents/content.php:77
+msgid ", "
+msgstr ""
+
+#: template-parts/contents/content-standard.php:35
+#: template-parts/contents/content-list.php:40
+#: template-parts/contents/content-grid.php:47
+msgid "1 comment"
+msgstr ""
+
+#: inc/woocommerce-hooks.php:97
+msgid "2 Columns"
+msgstr ""
+
+#: inc/woocommerce-hooks.php:109
+msgid "3 Columns"
+msgstr ""
+
+#: inc/woocommerce-hooks.php:121
+msgid "4 Columns"
+msgstr ""
+
+#: 404.php:23
+msgid "404 Error"
+msgstr ""
+
+#: template-parts/contents/breadcrumb.php:108
+msgid "404 Not Found"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"A modern WordPress theme with yomooh core plugin integration featuring "
+"responsive design, dark/light mode, customizable layouts, and seamless "
+"plugin integration."
+msgstr ""
+
+#: template-parts/footers/cookie-notice.php:26
+msgid "Accept"
+msgstr ""
+
+#: inc/class-yomooh-theme.php:87
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: inc/class-yomooh-theme.php:35
+msgid "Add widgets here to appear in your sidebar blog."
+msgstr ""
+
+#: inc/class-yomooh-theme.php:53
+msgid "Add widgets here to appear in your sidebar single blog."
+msgstr ""
+
+#: inc/class-yomooh-theme.php:44
+msgid "Add widgets here to appear in your sidebar single page."
+msgstr ""
+
+#: inc/class-yomooh-theme.php:26
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: inc/plugin-check.php:116
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: template-parts/footers/footer-default.php:83
+msgid "All Rights Reserved."
+msgstr ""
+
+#: inc/enqueue.php:113
+msgid "An error occurred during login"
+msgstr ""
+
+#: comments.php:67
+msgid "Be the first one to comment!"
+msgstr ""
+
+#: inc/plugin-check.php:106
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-check.php:96
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-check.php:101
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: template-parts/contents/breadcrumb.php:23
+msgid "Breadcrumb"
+msgstr ""
+
+#: template-parts/contents/content-standard.php:27
+#: template-parts/contents/content-list.php:30
+#: template-parts/contents/content-grid.php:37
+msgid "By"
+msgstr ""
+
+#: import/theme-demo.php:302
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: import/theme-demo.php:245 import/theme-demo.php:388
+#: import/theme-demo.php:443
+msgid "Cancel"
+msgstr ""
+
+#: comments.php:83
+msgid "Cancel Reply"
+msgstr ""
+
+#: import/classes/importer-v2/WXRImporter.php:551
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#: template-parts/headers/header-default.php:248
+#: template-parts/headers/header2.php:299
+msgid "Close menu"
+msgstr ""
+
+#: inc/template-tags.php:799
+msgid "Close newsletter popup"
+msgstr ""
+
+#. 1:comment_id, 2:author_id
+#: import/classes/importer-v2/WXRImporter.php:1994
+#, php-format
+msgid "Comment %1$d was imported with author %2$d, but could not be found"
+msgstr ""
+
+#. 1:comment_id, 2:parent_id
+#: import/classes/importer-v2/WXRImporter.php:1980
+#, php-format
+msgid "Comment %1$d was imported with parent %2$d, but could not be found"
+msgstr ""
+
+#: comments.php:74
+msgid "Comments are closed."
+msgstr ""
+
+#: template-parts/contents/content-search.php:26
+msgid "Continue reading"
+msgstr ""
+
+#: template-parts/contents/content.php:52
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/template-tags.php:709 inc/template-tags.php:711
+msgid "Copy link"
+msgstr ""
+
+#. 1:title, 2:post_id
+#: import/classes/importer-v2/WXRImporter.php:1877
+#, php-format
+msgid "Could not find the author for \"%1$s\" (post #%2$d)"
+msgstr ""
+
+#. 1:comment_id
+#: import/classes/importer-v2/WXRImporter.php:1991
+msgid "Could not find the author for comment #%d"
+msgstr ""
+
+#. 1:comment_id
+#: import/classes/importer-v2/WXRImporter.php:1977
+msgid "Could not find the comment parent for comment #%d"
+msgstr ""
+
+#. 1:title, 2:post_id
+#: import/classes/importer-v2/WXRImporter.php:1958
+#, php-format
+msgid "Could not find the menu object for \"%1$s\" (post #%2$d)"
+msgstr ""
+
+#. 1:title, 2:post_id
+#: import/classes/importer-v2/WXRImporter.php:1863
+#, php-format
+msgid "Could not find the post parent for \"%1$s\" (post #%2$d)"
+msgstr ""
+
+#: import/classes/importer-v2/WXRImporter.php:84
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#. 1:post_id
+#: import/classes/importer-v2/WXRImporter.php:1915
+#, php-format
+msgid "Could not update \"%1$s\" (post #%2$d) with mapped data"
+msgstr ""
+
+#. 1:termattributes name, 2:term_id
+#: import/classes/importer-v2/WXRImporter.php:2081
+#, php-format
+msgid "Could not update \"%1$s\" (term #%2$d) with mapped data"
+msgstr ""
+
+#. 1:comment_id
+#: import/classes/importer-v2/WXRImporter.php:2008
+msgid "Could not update comment #%d with mapped data"
+msgstr ""
+
+#: import/theme-demo.php:420
+msgid "Customize theme"
+msgstr ""
+
+#: import/theme-demo.php:193
+msgid "Customizer"
+msgstr ""
+
+#: template-parts/footers/cookie-notice.php:29
+msgid "Decline"
+msgstr ""
+
+#: import/theme-demo.php:504
+msgid "Demo Content"
+msgstr ""
+
+#: import/theme-demo.php:258
+msgid "Demo content id not set."
+msgstr ""
+
+#: inc/plugin-check.php:117
+msgid "Dismiss this notice"
+msgstr ""
+
+#: comments.php:128
+msgid "Edit"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:148 template-parts/contents/content.php:99
+#: template-parts/contents/content-page.php:44
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: comments.php:101
+msgid "Email"
+msgstr ""
+
+#: import/theme-demo.php:506
+msgid ""
+"Enabling this option will import demo pages, posts, categories, and "
+"secondary pages. It's recommended to disable this option for existing"
+msgstr ""
+
+#: inc/template-tags.php:339
+msgid "Enter just your username (without @)"
+msgstr ""
+
+#: import/classes/class-manager-import.php:809
+#, php-format
+msgid "Error saving options: %s"
+msgstr ""
+
+#: import/classes/class-customizer-importer.php:61
+msgid ""
+"Error: The customizer import file is not in a correct format. Please make "
+"sure to use the correct customizer import file."
+msgstr ""
+
+#: import/classes/class-widget-importer.php:61
+msgid "Error: Widget import data could not be read."
+msgstr ""
+
+#: inc/template-tags.php:315
+msgid "Facebook URL"
+msgstr ""
+
+#. 1:key, 2:value, 3: term_id
+#: import/classes/importer-v2/WXRImporter.php:1738
+#, php-format
+msgid "Failed to add metakey: %1$s, metavalue: %2$s to term_id: %3$d"
+msgstr ""
+
+#: import/classes/class-manager-import.php:751
+#, php-format
+msgid "Failed to fetch options file: %s"
+msgstr ""
+
+#: import/classes/importer-v2/WXRImporter.php:717
+#, php-format
+msgid "Failed to import \"%1$s\" (%2$s)"
+msgstr ""
+
+#. 1:post_title, 2:post_type
+#: import/classes/importer-v2/WXRImporter.php:613
+#, php-format
+msgid "Failed to import \"%1$s\": Invalid post type %2$s"
+msgstr ""
+
+#. 1:taxonomy, 2:name
+#: import/classes/importer-v2/WXRImporter.php:1649
+#, php-format
+msgid "Failed to import %1$s %2$s"
+msgstr ""
+
+#. 1:taxonomy, 2:term name
+#: import/classes/importer-v2/WXRImporter.php:793
+#, php-format
+msgid "Failed to import term: %1$s - %2$s"
+msgstr ""
+
+#. 1:user_login
+#: import/classes/importer-v2/WXRImporter.php:1474
+#, php-format
+msgid "Failed to import user \"%s\""
+msgstr ""
+
+#: import/classes/class-manager-import.php:385
+msgid "Failed to initialize or activate importer plugin."
+msgstr ""
+
+#. 1:termid
+#: import/classes/importer-v2/WXRImporter.php:2026
+#, php-format
+msgid "Faulty term_id provided in terms-to-be-remapped array %s"
+msgstr ""
+
+#: import/theme-demo.php:481
+msgid "Features and theme options for Yomooh theme,"
+msgstr ""
+
+#: import/theme-demo.php:231
+msgid "Finish"
+msgstr ""
+
+#: import/theme-demo.php:235
+msgid "Finishing setup..."
+msgstr ""
+
+#: inc/class-yomooh-theme.php:85
+msgid "Footer %d"
+msgstr ""
+
+#: inc/class-yomooh-theme.php:118
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/template-tags.php:453
+msgid "Forgot Password?"
+msgstr ""
+
+#: import/theme-demo.php:409
+msgid "Go ahead, customize the design to make it yours!"
+msgstr ""
+
+#: inc/template-tags.php:410
+msgid "Hello,"
+msgstr ""
+
+#: template-parts/contents/breadcrumb.php:17
+msgid "Home"
+msgstr ""
+
+#. URI of the theme
+#. Author URI of the theme
+msgid "https://somnest.net"
+msgstr ""
+
+#: import/theme-demo.php:274
+msgid ""
+"If the import process takes longer than 5 minutes, please refresh this page "
+"and try importing again!"
+msgstr ""
+
+#: import/theme-demo.php:278
+msgid ""
+"If your imported Elementor pages appear broken or empty, it may be due to a "
+"new feature conflict. To fix this, go to Elementor → Settings → Features, "
+"and under \"Flexbox Container\" or \"Nested Elements\", set them to Inactive."
+" Then save changes and re-edit the page in Elementor."
+msgstr ""
+
+#: import/theme-demo.php:251 import/theme-demo.php:330
+msgid "Import"
+msgstr ""
+
+#: import/theme-demo.php:272
+msgid "Import a Prebuilt Website"
+msgstr ""
+
+#: import/theme-demo.php:161
+msgid "Import Content"
+msgstr ""
+
+#: import/theme-demo.php:380
+msgid "Import Failed"
+msgstr ""
+
+#: import/theme-demo.php:347
+msgid "Import Theme"
+msgstr ""
+
+#: import/classes/class-widget-importer.php:97
+msgid "Imported"
+msgstr ""
+
+#. 1:post_title, 2:singular_name
+#. 1:name, 2:taxonomy
+#: import/classes/importer-v2/WXRImporter.php:750
+#: import/classes/importer-v2/WXRImporter.php:1687
+#, php-format
+msgid "Imported \"%1$s\" (%2$s)"
+msgstr ""
+
+#: import/theme-demo.php:406
+msgid "Imported Successfully"
+msgstr ""
+
+#: import/classes/class-widget-importer.php:151
+msgid "Imported to Inactive"
+msgstr ""
+
+#. 1:user_login
+#: import/classes/importer-v2/WXRImporter.php:1496
+#, php-format
+msgid "Imported user \"%s\""
+msgstr ""
+
+#: import/theme-demo.php:181
+msgid "Importing"
+msgstr ""
+
+#: import/theme-demo.php:197
+msgid "Importing customizer options..."
+msgstr ""
+
+#: import/theme-demo.php:210
+msgid "Importing options..."
+msgstr ""
+
+#: import/theme-demo.php:223
+msgid "Importing widgets..."
+msgstr ""
+
+#: inc/template-tags.php:485
+msgid "Incorrect username or password."
+msgstr ""
+
+#: inc/template-tags.php:317
+msgid "Instagram URL"
+msgstr ""
+
+#: import/theme-demo.php:118 inc/plugin-check.php:62
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/plugin-check.php:61
+msgid "Install Required Plugins"
+msgstr ""
+
+#: import/theme-demo.php:354
+msgid "Installing"
+msgstr ""
+
+#: import/theme-demo.php:144
+msgid "Installing and activating"
+msgstr ""
+
+#: inc/plugin-check.php:63
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: import/classes/class-manager-import.php:365
+msgid "Insufficient permissions to install the plugin."
+msgstr ""
+
+#: import/classes/importer-v2/WXRImporter.php:471
+msgid "Invalid author mapping"
+msgstr ""
+
+#: import/theme-demo.php:80
+msgid "Invalid demo content id."
+msgstr ""
+
+#: import/classes/importer-v2/WXRImporter.php:921
+msgid "Invalid file type"
+msgstr ""
+
+#: import/classes/class-manager-import.php:774
+#, php-format
+msgid "Invalid JSON format: %s"
+msgstr ""
+
+#: import/classes/class-manager-import.php:736
+msgid "Invalid URL format for options file."
+msgstr ""
+
+#: 404.php:31
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: template-parts/contents/content-none.php:49
+msgid ""
+"It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr ""
+
+#: import/theme-demo.php:488
+msgid "Just another contact form plugin. Simple but flexible."
+msgstr ""
+
+#: import/theme-demo.php:280
+msgid ""
+"Launch your website instantly with our ready-to-use demo — import in one "
+"click.."
+msgstr ""
+
+#: template-parts/footers/cookie-notice.php:20
+msgid "Learn more"
+msgstr ""
+
+#: comments.php:43 comments.php:81
+msgid "Leave a Comment"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:131 template-parts/contents/content-single.php:106
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: comments.php:82
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: inc/template-tags.php:318
+msgid "LinkedIn URL"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:118 template-parts/contents/content.php:83
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/woocommerce-hooks.php:133
+msgid "List View"
+msgstr ""
+
+#: template-parts/contents/pagination.php:45
+msgid "Load More"
+msgstr ""
+
+#: comments.php:94
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:92
+#, php-format
+msgid "Logged in as %1$s. %2$sLog out &raquo;%3$s"
+msgstr ""
+
+#: inc/enqueue.php:112 inc/template-tags.php:427 inc/template-tags.php:429
+#: inc/template-tags.php:449
+msgid "Login"
+msgstr ""
+
+#: inc/template-tags.php:413
+msgid "Logout"
+msgstr ""
+
+#: import/theme-demo.php:494
+msgid "Main Default"
+msgstr ""
+
+#. 1:term_id, 2:key, 3: value
+#: import/classes/importer-v2/WXRImporter.php:1748
+#, php-format
+msgid "Meta for term_id %1$d : %2$s => %3$s ; successfully added!"
+msgstr ""
+
+#: inc/class-yomooh-theme.php:119
+msgid "Mobile Menu"
+msgstr ""
+
+#: inc/template-tags.php:403
+msgid "My Account"
+msgstr ""
+
+#: comments.php:100
+msgid "Name"
+msgstr ""
+
+#: single.php:89 inc/woocommerce-hooks.php:244
+#: template-parts/contents/pagination.php:18
+msgid "Next"
+msgstr ""
+
+#: inc/plugin-check.php:114
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: template-parts/contents/content-standard.php:35
+#: template-parts/contents/content-list.php:40
+#: template-parts/contents/content-grid.php:47
+msgid "No comments"
+msgstr ""
+
+#: template-parts/contents/content-none.php:20
+msgid "No Content Available"
+msgstr ""
+
+#: import/classes/class-manager-import.php:633
+msgid "No customizer JSON file specified."
+msgstr ""
+
+#. 1:term_id
+#: import/classes/importer-v2/WXRImporter.php:2063
+msgid "No data returned by get_term_by for term_id #%d"
+msgstr ""
+
+#. 1:term_id
+#: import/classes/importer-v2/WXRImporter.php:2044
+msgid "No parent_slug identified in remapping-array for term: %d"
+msgstr ""
+
+#: import/classes/class-widget-importer.php:264
+msgid "No results for widget import!"
+msgstr ""
+
+#. 1:term_id
+#: import/classes/importer-v2/WXRImporter.php:2035
+msgid "No taxonomy provided in terms-to-be-remapped array for term #%d"
+msgstr ""
+
+#: import/classes/class-widget-importer.php:157
+msgid "No Title"
+msgstr ""
+
+#: import/classes/class-manager-import.php:684
+msgid "No widgets WIE file specified."
+msgstr ""
+
+#: template-parts/contents/content-none.php:18
+msgid "Nothing Found"
+msgstr ""
+
+#: comments.php:26
+msgid "One Comment"
+msgstr ""
+
+#: 404.php:30
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: import/theme-demo.php:451
+msgid "Open in new tab"
+msgstr ""
+
+#: import/theme-demo.php:206
+msgid "Options"
+msgstr ""
+
+#: import/classes/class-manager-import.php:781
+msgid "Options data is not in expected format."
+msgstr ""
+
+#: import/classes/class-manager-import.php:767
+msgid "Options file is empty."
+msgstr ""
+
+#: import/classes/class-manager-import.php:803
+msgid "Options imported successfully!"
+msgstr ""
+
+#: inc/woocommerce-hooks.php:245
+msgid "Page"
+msgstr ""
+
+#: template-parts/contents/content.php:67
+#: template-parts/contents/content-page.php:32
+#: template-parts/contents/content-single.php:130
+msgid "Pages:"
+msgstr ""
+
+#: inc/template-tags.php:442
+msgid "Password"
+msgstr ""
+
+#: inc/template-tags.php:320
+msgid "Pinterest URL"
+msgstr ""
+
+#: import/theme-demo.php:358
+msgid ""
+"Please be patient and don't refresh this page, the import process may take a "
+"while, this also depends on your server."
+msgstr ""
+
+#: inc/plugin-check.php:119
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/plugin-check.php:112
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/plugin-check.php:115
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. 1:original_id, 2:post_id
+#: import/classes/importer-v2/WXRImporter.php:753
+#, php-format
+msgid "Post %1$d remapped to %2$d"
+msgstr ""
+
+#. 1:post_id, 2:author_slug
+#: import/classes/importer-v2/WXRImporter.php:1879
+#, php-format
+msgid "Post %1$d was imported with author \"%2$s\", but could not be found"
+msgstr ""
+
+#. 1:post_id, 2:menu_object_id
+#: import/classes/importer-v2/WXRImporter.php:1960
+#, php-format
+msgid ""
+"Post %1$d was imported with object \"%2$d\" of type \"%3$s\", but could not "
+"be found"
+msgstr ""
+
+#. 1:post_id, 2:parent_id
+#: import/classes/importer-v2/WXRImporter.php:1865
+#, php-format
+msgid "Post %1$d was imported with parent %2$d, but could not be found"
+msgstr ""
+
+#. 1:post_id
+#: import/classes/importer-v2/WXRImporter.php:1903
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:73
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: comments.php:84
+msgid "Post Comment"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:26
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:114
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: import/theme-demo.php:154
+msgid "Pre import..."
+msgstr ""
+
+#: import/theme-demo.php:326
+msgid "Preview Demo"
+msgstr ""
+
+#: single.php:88 inc/woocommerce-hooks.php:243
+#: template-parts/contents/pagination.php:17
+msgid "Previous"
+msgstr ""
+
+#: inc/class-yomooh-theme.php:117
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/template-tags.php:772
+msgid "Print"
+msgstr ""
+
+#: inc/template-tags.php:770
+msgid "Print this post"
+msgstr ""
+
+#: inc/class-yomooh-theme.php:72
+msgid "Product Sidebar"
+msgstr ""
+
+#: inc/woocommerce-hooks.php:251
+msgid "Products pagination"
+msgstr ""
+
+#: inc/template-tags.php:412
+msgid "Profile"
+msgstr ""
+
+#: inc/class-yomooh-theme.php:120
+msgid "Quick link Menu"
+msgstr ""
+
+#: template-parts/contents/content.php:62
+msgid "Read More"
+msgstr ""
+
+#: import/theme-demo.php:133
+msgid "Recommended"
+msgstr ""
+
+#: import/classes/class-widget-importer.php:195
+msgid "Referenced menu ID %d does not exist"
+msgstr ""
+
+#: import/theme-demo.php:474
+msgid ""
+"Regenerate the thumbnails for one or more of your image uploads. Useful when "
+"changing their sizes or your theme."
+msgstr ""
+
+#: inc/template-tags.php:455
+msgid "Register"
+msgstr ""
+
+#: inc/woocommerce-hooks.php:316
+msgid "Related Products"
+msgstr ""
+
+#. 1:value, 2:new_id, 3:post_id
+#: import/classes/importer-v2/WXRImporter.php:2129
+#, php-format
+msgid "Remapping featured image ID %1$d to new ID %2$d for post ID %3$d"
+msgstr ""
+
+#: inc/template-tags.php:447
+msgid "Remember Me"
+msgstr ""
+
+#. 1:max_size
+#: import/classes/importer-v2/WXRImporter.php:1827
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#. 1:code, 2:desc, 3: url
+#: import/classes/importer-v2/WXRImporter.php:1802
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: import/theme-demo.php:131
+msgid "Required"
+msgstr ""
+
+#: import/theme-demo.php:139
+msgid "Required plugin will be installed"
+msgstr ""
+
+#: inc/plugin-check.php:111
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#. 1:post_id
+#: import/classes/importer-v2/WXRImporter.php:1851
+msgid "Running post-processing for post %d"
+msgstr ""
+
+#: inc/woocommerce-hooks.php:185
+msgid "Sale"
+msgstr ""
+
+#: inc/template-tags.php:568
+msgid "Scroll to top button"
+msgstr ""
+
+#: inc/template-tags.php:652
+msgid "Search"
+msgstr ""
+
+#: inc/template-tags.php:648
+msgid "Search for:"
+msgstr ""
+
+#: search.php:54
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/template-tags.php:642
+msgid "Search..."
+msgstr ""
+
+#: search.php:74
+msgid "Searching in: "
+msgstr ""
+
+#: inc/template-tags.php:471
+msgid "Security verification failed."
+msgstr ""
+
+#: import/classes/class-manager-import.php:759
+msgid "Server responded with status code: %d"
+msgstr ""
+
+#: inc/template-tags.php:716
+msgid "Share on Facebook"
+msgstr ""
+
+#: inc/template-tags.php:732
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: inc/template-tags.php:740
+msgid "Share on Pinterest"
+msgstr ""
+
+#: inc/template-tags.php:748
+msgid "Share on Reddit"
+msgstr ""
+
+#: inc/template-tags.php:724
+msgid "Share on Twitter"
+msgstr ""
+
+#: inc/template-tags.php:756
+msgid "Share on WhatsApp"
+msgstr ""
+
+#: inc/template-tags.php:764
+msgid "Share via Email"
+msgstr ""
+
+#: inc/template-tags.php:705
+msgid "Share:"
+msgstr ""
+
+#: inc/class-yomooh-theme.php:62
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/class-yomooh-theme.php:24
+msgid "Sidebar"
+msgstr ""
+
+#: inc/class-yomooh-theme.php:33
+msgid "Sidebar blog"
+msgstr ""
+
+#: import/classes/class-widget-importer.php:89
+msgid "Sidebar does not exist in theme"
+msgstr ""
+
+#: inc/class-yomooh-theme.php:51
+msgid "Sidebar single blog"
+msgstr ""
+
+#: inc/class-yomooh-theme.php:42
+msgid "Sidebar single page"
+msgstr ""
+
+#: inc/template-tags.php:433
+msgid "Sign In"
+msgstr ""
+
+#: import/classes/class-widget-importer.php:106
+msgid "Site does not support widget"
+msgstr ""
+
+#. Post title
+#: import/classes/importer-v2/WXRImporter.php:702
+#, php-format
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr ""
+
+#: inc/template-tags.php:310
+msgid "Social Media Links"
+msgstr ""
+
+#: import/theme-demo.php:383
+msgid ""
+"Something went wrong during the import process. Please try again or contact "
+"support."
+msgstr ""
+
+#: inc/plugin-check.php:65
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: import/theme-demo.php:608
+msgid "Something went wrong, contact support."
+msgstr ""
+
+#. Author of the theme
+msgid "Somnest"
+msgstr ""
+
+#: template-parts/contents/content-none.php:35
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/template-tags.php:321
+msgid "SoundCloud URL"
+msgstr ""
+
+#: import/classes/importer-v2/WXRImporter.php:2119
+msgid "Starting remapping of featured images"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:121 template-parts/contents/content-single.php:141
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. 1:original_id, 2:term_id
+#: import/classes/importer-v2/WXRImporter.php:1690
+#, php-format
+msgid "Term %1$d remapped to %2$d"
+msgstr ""
+
+#. 1:term_id, 2:mapped_parent
+#: import/classes/importer-v2/WXRImporter.php:2091
+#, php-format
+msgid "Term %1$d was successfully updated with parent %2$d"
+msgstr ""
+
+#: import/classes/importer-v2/WXRImporter.php:426
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: inc/plugin-check.php:76
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-check.php:113
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/plugin-check.php:91
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-check.php:86
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:44
+#, php-format
+msgid ""
+"The required core plugin <strong>%s</strong> is not active. Please activate "
+"it to ensure the theme works properly."
+msgstr ""
+
+#. 1:term_id, 2:parent_slug
+#: import/classes/importer-v2/WXRImporter.php:2051
+#, php-format
+msgid ""
+"The term(%1$d)\"s parent_slug (%2$s) is not found in the remapping-array."
+msgstr ""
+
+#: import/classes/class-manager-import.php:413
+#: import/classes/class-manager-import.php:729
+msgid "The URL address of the demo content is not specified."
+msgstr ""
+
+#: import/classes/class-manager-import.php:623
+#: import/classes/class-manager-import.php:674
+msgid "The url address of the demo content is not specified."
+msgstr ""
+
+#: import/theme-demo.php:43 import/theme-demo.php:44
+msgid "Theme Demo"
+msgstr ""
+
+#: import/theme-demo.php:282
+msgid "Theme Demos"
+msgstr ""
+
+#: inc/plugin-check.php:118
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/plugin-check.php:81
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-check.php:71
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-check.php:66
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1:version, 2:MAX_WXR_VERSION
+#: import/classes/importer-v2/WXRImporter.php:114
+#: import/classes/importer-v2/WXRImporter.php:223
+#: import/classes/importer-v2/WXRImporter.php:288
+#, php-format
+msgid ""
+"This WXR file (version %1$s) is newer than the importer (version %2$s) and "
+"may not be supported. Please consider updating."
+msgstr ""
+
+#: template-parts/headers/header-default.php:175
+#: template-parts/headers/header2.php:226
+msgid "Toggle menu"
+msgstr ""
+
+#: template-parts/headers/header-default.php:105
+#: template-parts/headers/header-default.php:216
+#: template-parts/headers/header2.php:147
+#: template-parts/headers/header2.php:267
+msgid "Toggle search"
+msgstr ""
+
+#: inc/template-tags.php:509 inc/template-tags.php:534
+msgid "Toggle theme mode"
+msgstr ""
+
+#: inc/template-tags.php:322
+msgid "Tumblr URL"
+msgstr ""
+
+#: inc/template-tags.php:316
+msgid "Twitter Username"
+msgstr ""
+
+#: import/classes/class-manager-import.php:358
+msgid "Unknown path in a plugin."
+msgstr ""
+
+#: import/classes/class-manager-import.php:354
+msgid "Unknown slug in a plugin."
+msgstr ""
+
+#: inc/plugin-check.php:64
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#. 1:original_id, 2:user_id
+#: import/classes/importer-v2/WXRImporter.php:1499
+#, php-format
+msgid "User %1$d remapped to %2$d"
+msgstr ""
+
+#: inc/template-tags.php:438
+msgid "Username or Email"
+msgstr ""
+
+#: import/theme-demo.php:301
+#, php-format
+msgid "Version: %s"
+msgstr ""
+
+#: template-parts/contents/content-author.php:37
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: import/theme-demo.php:417
+msgid "View Site"
+msgstr ""
+
+#: comments.php:102 template-parts/contents/content-author.php:44
+msgid "Website"
+msgstr ""
+
+#: import/classes/class-widget-importer.php:132
+msgid "Widget already exists"
+msgstr ""
+
+#: import/theme-demo.php:219
+msgid "Widgets"
+msgstr ""
+
+#: inc/class-yomooh-theme.php:74
+msgid "Widgets for single WooCommerce product pages."
+msgstr ""
+
+#: inc/class-yomooh-theme.php:64
+msgid "Widgets for the WooCommerce Shop page."
+msgstr ""
+
+#: inc/template-tags.php:323
+msgid "Wikipedia URL"
+msgstr ""
+
+#. Name of the theme
+msgid "Yomooh"
+msgstr ""
+
+#: import/classes/class-manager-import.php:430
+msgid "You are not permitted to import contents."
+msgstr ""
+
+#: import/classes/class-manager-import.php:629
+msgid "You are not permitted to import customizer."
+msgstr ""
+
+#: import/classes/class-manager-import.php:680
+msgid "You are not permitted to import widgets."
+msgstr ""
+
+#: import/classes/class-manager-import.php:724
+msgid "You do not have permission to import options."
+msgstr ""
+
+#: template-parts/contents/content-related.php:43
+msgid "You May Also Like"
+msgstr ""
+
+#: comments.php:87
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a comment."
+msgstr ""
+
+#: template-parts/contents/breadcrumb.php:100
+#, php-format
+msgid "You searched for: %s"
+msgstr ""
+
+#: comments.php:143
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:85
+msgid "Your comment..."
+msgstr ""
+
+#: comments.php:97
+msgid "Your email address will not be published."
+msgstr ""
+
+#: inc/template-tags.php:319
+msgid "YouTube URL"
+msgstr ""
+
+#: import/classes/importer-v2/WXRImporter.php:1819
+msgid "Zero size file downloaded"
+msgstr ""
